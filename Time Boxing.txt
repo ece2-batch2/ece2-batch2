@@ -162,3 +162,22 @@ Task planning @25/oct,
 7) Understanding Gant Chart  --- 6:00pm to 7:00pm
 
  
+
+Good Evening Sir,
+This is Swapna
+Task update @25/oct,
+1) Meet-1 with mentor --- Not completed
+2) Understand RCA PPT and preparing document
+       a) Understanding RCA PPT  ---- Completed
+       b) Preparing an example for RCA ---- Completed
+3) Understand DSO PPT and Practical explanation
+       a) Understand DSO PPT ---- Completed
+       b) Practical explanation of DSO ---- Completed
+4) Meet-2 with mentor --- Not completed
+5) Understand Lab equipement & preparing document
+       a) Understanding of DMM, Variac, Isolation Transformer ---- Completed
+       b) Preparing an understanding document ---- Completed
+6) Understand Git usage
+       a) Understanding the usage of git account --- Completed
+       b) Creating git account --- Completed
+7) Understanding Gant Chart  --- WIP
